@@ -1,0 +1,25 @@
+{
+    "name": "re:YouMod",
+    "identifier": "com.autoyoumod.source",
+    "tintColor": "#FE5C6D",
+    "apps": [
+        {
+            "name": "re:YouMod",
+            "bundleIdentifier": "com.autoyoumod.reyoumod",
+            "developerName": "Tonwalter888",
+            "subtitle": "A YTLite alternative.",
+            "localizedDescription": "A tweak that's try to recreate features like in YTLite as much as possible.",
+            "iconURL": "https://github.com/rainnerhmm/YouMod/releases/download/youmod-ipa/youmodicon.png",
+            "tintColor": "#FE5C6D",
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2026-10-25T10:13:00-06:00",
+                    "size": 132150739,
+                    "downloadURL": "https://github.com/rainnerhmm/YouMod/releases/download/youmod-ipa/YouMod_21.42.4_v2.0.0.ipa",
+                    "minOSVersion": "14.0"
+                }
+            ]
+        }
+    ]
+}
