@@ -1,11 +1,11 @@
 {
     "name": "re:YouMod",
-    "identifier": "com.google.ios.youtube",
+    "identifier": "com.autoyoumod.reyoumod",
     "tintColor": "#FE5C6D",
     "apps": [
         {
             "name": "re:YouMod",
-            "bundleIdentifier": "com.autoyoumod.reyoumod",
+            "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Tonwalter888",
             "subtitle": "A YTLite alternative.",
             "localizedDescription": "A tweak that's try to recreate features like in YTLite as much as possible.",
